@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Nila Homar</h1>
 <h3 align="center">I am a creative Full Stack Developer focusing on designing and developing responsive web applications.</h3>
 
-- 🚀  I’m currently working on [shades](https://www.findtheshades.com/)
+<!-- - 🚀  I’m currently working on [shades](https://www.findtheshades.com/) -->
 
-- 🧠  I’m currently learning **TypeScript, AngularJS**
+- 🧠  I’m currently learning **AWS, Terraform**
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/nilahomar?tab=repositories)
 
@@ -41,11 +41,13 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<b>GitHub Stats</b>
+<!-- <b>GitHub Stats</b> -->
+<!--
+<a href="http://www.github.com/nilahomar"><img src="https://github-readme-stats.vercel.app/api?username=nilahomar&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="nilahomar's GitHub stats" /></a> -->
 
-<a href="http://www.github.com/nilahomar"><img src="https://github-readme-stats.vercel.app/api?username=nilahomar&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="nilahomar's GitHub stats" /></a>
-
-<a href="https://github.com/nilahomar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilahomar&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/nilahomar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilahomar&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
